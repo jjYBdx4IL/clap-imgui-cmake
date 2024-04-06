@@ -1,0 +1,3 @@
+[submodule "clap-imgui"]
+	path = clap-imgui
+	url = https://github.com/schwaaa/clap-imgui.git
